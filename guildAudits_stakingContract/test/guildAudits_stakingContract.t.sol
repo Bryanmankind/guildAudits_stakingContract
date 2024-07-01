@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 import "forge-std/Test.sol";
-import "../src/Staking.sol";
+import "../src/guildAudits_stakingContract.sol";
 
 contract StakingTest is Test {
     Staking staking;
